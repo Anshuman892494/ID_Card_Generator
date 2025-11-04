@@ -21,7 +21,7 @@ Built with **pure HTML, CSS, and Vanilla JavaScript**, this tool runs entirely i
 ## 🧭 How to Use
 
 1. **Open the Live App**  
-   Visit the live demo: [https://id-card-generator-ecstv7yiv-anshuman-varmas-projects.vercel.app/](https://id-card-generator-ecstv7yiv-anshuman-varmas-projects.vercel.app/)  
+   Visit the live demo: [[https://id-card-generator-ecstv7yiv-anshuman-varmas-projects.vercel.app](https://id-card-generator-ten-roan.vercel.app/)]
 
 2. **Fill in Your Details**  
    Enter your **Name, ID, Institute, Phone**, and other required fields.  
@@ -80,4 +80,4 @@ Perfect for:
 
 🌐 Live Demo
 Try the app instantly:
-👉 https://id-card-generator-ecstv7yiv-anshuman-varmas-projects.vercel.app/
+👉 https://id-card-generator-ten-roan.vercel.app/
